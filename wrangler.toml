@@ -1,8 +1,0 @@
-name = "texture-optimizer"
-compatibility_date = "2023-08-01"
-main = "./build/index.html"
-usage_model = "bundled"
-
-[site]
-bucket = "./build"
-entry-point = "./"
